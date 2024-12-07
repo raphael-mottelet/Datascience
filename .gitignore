@@ -1,0 +1,14 @@
+# Exclure le dossier d'environnement virtuel
+env/
+
+# Exclure le dossier contenant des données
+data/
+
+# Exclure les fichiers temporaires et inutiles courants
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+.DS_Store
+Thumbs.db
